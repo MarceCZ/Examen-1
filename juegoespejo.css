@@ -1,0 +1,16 @@
+button {
+    width: auto;
+    height: 40px;
+}
+
+.row {
+    margin: 5px;
+}
+
+.izq {
+    margin-right: 10px;
+}
+
+.der {
+    margin-left: 10px;
+}
